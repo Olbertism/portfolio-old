@@ -1,5 +1,5 @@
 const config = {
-  defaultTitle: 'Albert Pichler',
+  defaultTitle: 'John Doe',
   url:
     process.env.NODE_ENV !== 'development'
       ? process.env.NEXT_PUBLIC_PORTFOLIO_URL
