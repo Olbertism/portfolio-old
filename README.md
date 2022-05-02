@@ -30,7 +30,7 @@
 
 Project on [Behance](https://www.behance.net/gallery/74172961/Free-Gatsby-portfolio-for-developers)
 
-## Prerequisites
+## Prerequisites!
 
 ### Online
 
